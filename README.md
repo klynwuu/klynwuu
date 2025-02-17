@@ -10,9 +10,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me:
+The Quickest way to Reach me is to interact with me on [![X](https://img.shields.io/badge/@KlynWuu-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/klynwuu)
+如果你是中國大陸的朋友,你可以在[![Wechat](https://img.shields.io/badge/@KlynWuu-07C160?style=for-the-badge&logo=wechat&logoColor=FFFFFF&color=07C160)](weixin://dl/chat?KlynWuu)
+也可以小紅書找到我 [![Rednote](https://img.shields.io/badge/@KlynWuu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=FFFFFF&color=FF2442)](https://www.xiaohongshu.com/user/profile/677d478a000000000801d58c)
+h
 
-[![X](https://img.shields.io/badge/@KlynWuu-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/klynwuu)
+
+
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
