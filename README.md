@@ -1,6 +1,5 @@
 ## Hi👋, This is Klyn | 洖㳳淋
 
-<!--
 **klynwuu/klynwuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,9 +10,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me:
-[![Mastodon](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fmastodon%2Fmt%2540c.im&query=count&color=6364ff&label=Mastodon&logo=mastodon&suffix=+follows&cacheSeconds=3600)](https://404.li/mastodon)
-![X](https://img.shields.io/badge/@KlynWuu-000000?style=for-the-badge&logo=x&logoColor=white)
+
+[![X](https://img.shields.io/badge/@KlynWuu-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/klynwuu)
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
